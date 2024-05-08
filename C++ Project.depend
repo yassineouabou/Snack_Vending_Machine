@@ -1,0 +1,95 @@
+# depslib dependency file v1.0
+1714759605 source:c:\users\ouabou\desktop\c++ project\main.cpp
+	<iostream>
+	<fstream>
+	"Automat.h"
+
+1714759162 source:c:\users\ouabou\desktop\c++ project\moteur.cpp
+	"Moteur.h"
+
+1714058956 c:\users\ouabou\desktop\c++ project\moteur.h
+	<iostream>
+
+1714760324 source:c:\users\ouabou\desktop\c++ project\slot.cpp
+	"Slot.h"
+
+1714067172 c:\users\ouabou\desktop\c++ project\slot.h
+	"Moteur.h"
+
+1714760597 source:c:\users\ouabou\desktop\c++ project\automat.cpp
+	"Automat.h"
+
+1714060396 c:\users\ouabou\desktop\c++ project\automat.h
+	<vector>
+	"Slot.h"
+	"CoinSlot.h"
+	"Clavier.h"
+	"DropCheck.h"
+
+1714760443 source:c:\users\ouabou\desktop\c++ project\coinslot.cpp
+	"CoinSlot.h"
+
+1713776858 c:\users\ouabou\desktop\c++ project\coinslot.h
+	<iostream>
+	<vector>
+
+1713776925 source:c:\users\ouabou\desktop\c++ project\clavier.cpp
+	"Clavier.h"
+
+1713776894 c:\users\ouabou\desktop\c++ project\clavier.h
+	<iostream>
+
+1714074162 source:c:\users\ouabou\desktop\c++ project\dropcheck.cpp
+	"DropCheck.h"
+	<cstdlib>
+
+1713777000 c:\users\ouabou\desktop\c++ project\dropcheck.h
+	<iostream>
+
+1714760597 source:c:\users\ouabou\desktop\project\c++ project\automat.cpp
+	"Automat.h"
+
+1714060396 c:\users\ouabou\desktop\project\c++ project\automat.h
+	<vector>
+	"Slot.h"
+	"CoinSlot.h"
+	"Clavier.h"
+	"DropCheck.h"
+
+1714067172 c:\users\ouabou\desktop\project\c++ project\slot.h
+	"Moteur.h"
+
+1714058956 c:\users\ouabou\desktop\project\c++ project\moteur.h
+	<iostream>
+
+1713776858 c:\users\ouabou\desktop\project\c++ project\coinslot.h
+	<iostream>
+	<vector>
+
+1713776894 c:\users\ouabou\desktop\project\c++ project\clavier.h
+	<iostream>
+
+1713777000 c:\users\ouabou\desktop\project\c++ project\dropcheck.h
+	<iostream>
+
+1713776925 source:c:\users\ouabou\desktop\project\c++ project\clavier.cpp
+	"Clavier.h"
+
+1714760443 source:c:\users\ouabou\desktop\project\c++ project\coinslot.cpp
+	"CoinSlot.h"
+
+1714074162 source:c:\users\ouabou\desktop\project\c++ project\dropcheck.cpp
+	"DropCheck.h"
+	<cstdlib>
+
+1714759605 source:c:\users\ouabou\desktop\project\c++ project\main.cpp
+	<iostream>
+	<fstream>
+	"Automat.h"
+
+1714759162 source:c:\users\ouabou\desktop\project\c++ project\moteur.cpp
+	"Moteur.h"
+
+1714760674 source:c:\users\ouabou\desktop\project\c++ project\slot.cpp
+	"Slot.h"
+

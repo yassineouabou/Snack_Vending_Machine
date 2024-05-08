@@ -1,0 +1,12 @@
+1 Lays_Classic 150 1 0
+2 Coca-Cola 200 2 3
+3 M&M's_Peanut 120 4 0
+4 KitKat 180 5 6
+5 Pringles 250 7 8
+6 Haribo 100 9 10
+7 Doritos 220 11 10
+8 Snickers 150 11 0
+9 Twix_Bar 130 12 0
+10 Orangina 180 13 0 
+11 Milky 160 14 0
+12 Pepsi 210 15 16
